@@ -1,5 +1,5 @@
 # Data Analysis with Baltimore City Open Data
-working with Baltimore City Open Data
+Working with Baltimore City Open Data
 
 # Problem Statement
 
